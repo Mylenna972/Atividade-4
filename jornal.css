@@ -1,0 +1,52 @@
+body{ 
+    background-color:black;
+    
+	border: 6px solid  purple;
+
+
+}
+#primeiro-titulo{
+    text-align: center;
+	text-decoration: underline;
+color:orchid;
+}
+.noticias{
+border: 6px solid purple ;
+    border-bottom: 6px solid gold ; 
+    padding: 30px;
+}
+
+h3{
+text-align: center;
+    color: gold;
+    text-decoration:  underline;
+}
+
+a {color: gold;
+
+
+}
+
+img{
+    
+    width: 345px ;
+
+
+}
+.destacado{
+
+    color:gold;
+    text-decoration: underline;
+}
+
+p{
+
+    color:orchid
+    ;
+
+}
+
+
+
+
+
